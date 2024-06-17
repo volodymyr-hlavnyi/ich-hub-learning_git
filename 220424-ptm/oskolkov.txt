@@ -1,1 +1,2 @@
-Maked whith vi
+Maked with vi
+Modified with nano
